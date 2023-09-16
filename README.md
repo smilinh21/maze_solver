@@ -1,2 +1,2 @@
 # maze_solver
-A maze solver using DFS
+This is my second project. It's a maze solver using DFS.
